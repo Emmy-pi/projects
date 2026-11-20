@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+title: "Scholarship Fundraising Toolkit"
+version: 0.1.0
+date-released: 2026-11-19
+license: MIT
+authors:
+  - family-names: Nkansah
+    given-names: Emmanuel
+references:
+  - type: conference-paper
+    title: "Optimizing Fundraising Appeals: Using Data and Machine Learning"
+    authors:
+      - family-names: Nkansah
+        given-names: Emmanuel
+    year: 2025
+    collection-title: "Human Factors, Business Management and Society"
+    conference:
+      name: "AHFE (2025) International Conference"
+    publisher:
+      name: "AHFE International"
+    volume: 176
+    doi: "10.54941/ahfe1006308"

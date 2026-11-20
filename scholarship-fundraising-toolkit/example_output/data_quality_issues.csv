@@ -1,0 +1,622 @@
+donor_id,issue,detail
+D05045,possible_duplicate_donor,same email as D00031; set aside until merged in the CRM
+D05042,possible_duplicate_donor,same email as D00070; set aside until merged in the CRM
+D05002,possible_duplicate_donor,same email as D00249; set aside until merged in the CRM
+D05033,possible_duplicate_donor,same email as D00252; set aside until merged in the CRM
+D00357,possible_duplicate_donor,same email as D05011; set aside until merged in the CRM
+D00420,possible_duplicate_donor,same email as D05047; set aside until merged in the CRM
+D05007,possible_duplicate_donor,same email as D00502; set aside until merged in the CRM
+D05036,possible_duplicate_donor,same email as D00684; set aside until merged in the CRM
+D00700,possible_duplicate_donor,same email as D05027; set aside until merged in the CRM
+D05017,possible_duplicate_donor,same email as D00760; set aside until merged in the CRM
+D00902,possible_duplicate_donor,same email as D05026; set aside until merged in the CRM
+D05001,possible_duplicate_donor,same email as D01118; set aside until merged in the CRM
+D05024,possible_duplicate_donor,same email as D01214; set aside until merged in the CRM
+D01473,possible_duplicate_donor,same email as D05049; set aside until merged in the CRM
+D05020,possible_duplicate_donor,same email as D01593; set aside until merged in the CRM
+D05013,possible_duplicate_donor,same email as D01607; set aside until merged in the CRM
+D05003,possible_duplicate_donor,same email as D01667; set aside until merged in the CRM
+D05043,possible_duplicate_donor,same email as D01682; set aside until merged in the CRM
+D01758,possible_duplicate_donor,same email as D05014; set aside until merged in the CRM
+D05035,possible_duplicate_donor,same email as D01847; set aside until merged in the CRM
+D01979,possible_duplicate_donor,same email as D05044; set aside until merged in the CRM
+D02004,possible_duplicate_donor,same email as D05016; set aside until merged in the CRM
+D05015,possible_duplicate_donor,same email as D02100; set aside until merged in the CRM
+D05021,possible_duplicate_donor,same email as D02132; set aside until merged in the CRM
+D05006,possible_duplicate_donor,same email as D02145; set aside until merged in the CRM
+D05034,possible_duplicate_donor,same email as D02349; set aside until merged in the CRM
+D05037,possible_duplicate_donor,same email as D02410; set aside until merged in the CRM
+D05028,possible_duplicate_donor,same email as D02581; set aside until merged in the CRM
+D05038,possible_duplicate_donor,same email as D02674; set aside until merged in the CRM
+D05005,possible_duplicate_donor,same email as D02679; set aside until merged in the CRM
+D02696,possible_duplicate_donor,same email as D05022; set aside until merged in the CRM
+D02745,possible_duplicate_donor,same email as D05004; set aside until merged in the CRM
+D02767,possible_duplicate_donor,same email as D05010; set aside until merged in the CRM
+D02783,possible_duplicate_donor,same email as D05039; set aside until merged in the CRM
+D02812,possible_duplicate_donor,same email as D05048; set aside until merged in the CRM
+D05030,possible_duplicate_donor,same email as D02953; set aside until merged in the CRM
+D05023,possible_duplicate_donor,same email as D02978; set aside until merged in the CRM
+D05019,possible_duplicate_donor,same email as D03033; set aside until merged in the CRM
+D03173,possible_duplicate_donor,same email as D05012; set aside until merged in the CRM
+D03330,possible_duplicate_donor,same email as D05046; set aside until merged in the CRM
+D05032,possible_duplicate_donor,same email as D03457; set aside until merged in the CRM
+D03580,possible_duplicate_donor,same email as D05040; set aside until merged in the CRM
+D03640,possible_duplicate_donor,same email as D05025; set aside until merged in the CRM
+D03751,possible_duplicate_donor,same email as D05018; set aside until merged in the CRM
+D03887,possible_duplicate_donor,same email as D05031; set aside until merged in the CRM
+D05050,possible_duplicate_donor,same email as D04109; set aside until merged in the CRM
+D05041,possible_duplicate_donor,same email as D04178; set aside until merged in the CRM
+D05009,possible_duplicate_donor,same email as D04251; set aside until merged in the CRM
+D04312,possible_duplicate_donor,same email as D05008; set aside until merged in the CRM
+D05029,possible_duplicate_donor,same email as D04765; set aside until merged in the CRM
+D00545,negative_total_giving,set to 0; check the source record
+D01130,negative_total_giving,set to 0; check the source record
+D00136,negative_total_giving,set to 0; check the source record
+D00071,negative_total_giving,set to 0; check the source record
+D01718,negative_total_giving,set to 0; check the source record
+D03672,negative_total_giving,set to 0; check the source record
+D00943,negative_total_giving,set to 0; check the source record
+D04544,negative_total_giving,set to 0; check the source record
+D03430,negative_total_giving,set to 0; check the source record
+D03266,negative_total_giving,set to 0; check the source record
+D00869,negative_total_giving,set to 0; check the source record
+D03931,negative_total_giving,set to 0; check the source record
+D04034,negative_total_giving,set to 0; check the source record
+D00674,negative_total_giving,set to 0; check the source record
+D00834,date_corrected_day_month,first_gift_date
+D01967,date_corrected_day_month,first_gift_date
+D02330,date_corrected_day_month,first_gift_date
+D04012,date_corrected_day_month,first_gift_date
+D00169,date_corrected_day_month,first_gift_date
+D04545,date_corrected_day_month,first_gift_date
+D04214,date_corrected_day_month,first_gift_date
+D04445,date_corrected_day_month,first_gift_date
+D03308,date_corrected_day_month,first_gift_date
+D01841,date_corrected_day_month,first_gift_date
+D04063,date_corrected_day_month,first_gift_date
+D03113,date_corrected_day_month,first_gift_date
+D00135,date_corrected_day_month,first_gift_date
+D02950,date_corrected_day_month,first_gift_date
+D02847,date_corrected_day_month,first_gift_date
+D01056,date_corrected_day_month,first_gift_date
+D02866,date_corrected_day_month,first_gift_date
+D03971,date_corrected_day_month,first_gift_date
+D03633,date_corrected_day_month,first_gift_date
+D03782,date_corrected_day_month,first_gift_date
+D01615,date_corrected_day_month,first_gift_date
+D03807,date_corrected_day_month,first_gift_date
+D03650,date_corrected_day_month,first_gift_date
+D02192,date_corrected_day_month,first_gift_date
+D04123,date_corrected_day_month,first_gift_date
+D01863,date_corrected_day_month,first_gift_date
+D03955,date_corrected_day_month,first_gift_date
+D03039,date_corrected_day_month,first_gift_date
+D02952,date_corrected_day_month,first_gift_date
+D02723,date_corrected_day_month,first_gift_date
+D04958,date_corrected_day_month,first_gift_date
+D04918,date_corrected_day_month,first_gift_date
+D03516,date_corrected_day_month,first_gift_date
+D03979,date_corrected_day_month,first_gift_date
+D04460,date_corrected_day_month,first_gift_date
+D04138,date_corrected_day_month,first_gift_date
+D02586,date_corrected_day_month,first_gift_date
+D01968,date_corrected_day_month,first_gift_date
+D03350,date_corrected_day_month,first_gift_date
+D03186,date_corrected_day_month,first_gift_date
+D02803,date_corrected_day_month,first_gift_date
+D00703,date_corrected_day_month,first_gift_date
+D00400,date_corrected_day_month,first_gift_date
+D02530,date_corrected_day_month,first_gift_date
+D01806,date_corrected_day_month,first_gift_date
+D02958,date_corrected_day_month,first_gift_date
+D00800,date_corrected_day_month,first_gift_date
+D03018,date_corrected_day_month,first_gift_date
+D04052,date_corrected_day_month,first_gift_date
+D03413,date_corrected_day_month,first_gift_date
+D04439,date_corrected_day_month,first_gift_date
+D04069,date_corrected_day_month,first_gift_date
+D03838,date_corrected_day_month,first_gift_date
+D01798,date_corrected_day_month,first_gift_date
+D01990,date_corrected_day_month,first_gift_date
+D01416,date_corrected_day_month,first_gift_date
+D01344,date_corrected_day_month,first_gift_date
+D02258,date_corrected_day_month,first_gift_date
+D03785,date_corrected_day_month,first_gift_date
+D04608,date_corrected_day_month,first_gift_date
+D00454,date_corrected_day_month,first_gift_date
+D00272,date_corrected_day_month,first_gift_date
+D03316,date_corrected_day_month,first_gift_date
+D04197,date_corrected_day_month,first_gift_date
+D01312,date_corrected_day_month,first_gift_date
+D01760,date_corrected_day_month,first_gift_date
+D01909,date_corrected_day_month,first_gift_date
+D04803,date_corrected_day_month,first_gift_date
+D03473,date_corrected_day_month,first_gift_date
+D04638,date_corrected_day_month,first_gift_date
+D02704,date_corrected_day_month,first_gift_date
+D01397,date_corrected_day_month,first_gift_date
+D01626,date_corrected_day_month,first_gift_date
+D04108,date_corrected_day_month,first_gift_date
+D01149,date_corrected_day_month,first_gift_date
+D03343,date_corrected_day_month,first_gift_date
+D02434,date_corrected_day_month,first_gift_date
+D03945,date_ambiguous,first_gift_date
+D04392,date_ambiguous,first_gift_date
+D04344,date_ambiguous,first_gift_date
+D04551,date_ambiguous,first_gift_date
+D04889,date_ambiguous,first_gift_date
+D00498,date_ambiguous,first_gift_date
+D04145,date_ambiguous,first_gift_date
+D02440,date_ambiguous,first_gift_date
+D00486,date_ambiguous,first_gift_date
+D00839,date_ambiguous,first_gift_date
+D01834,date_ambiguous,first_gift_date
+D01256,date_ambiguous,first_gift_date
+D01324,date_ambiguous,first_gift_date
+D02134,date_ambiguous,first_gift_date
+D03140,date_ambiguous,first_gift_date
+D00656,date_ambiguous,first_gift_date
+D00211,date_ambiguous,first_gift_date
+D00062,date_ambiguous,first_gift_date
+D01891,date_ambiguous,first_gift_date
+D00734,date_ambiguous,first_gift_date
+D04548,date_ambiguous,first_gift_date
+D01619,date_ambiguous,first_gift_date
+D02651,date_ambiguous,first_gift_date
+D03952,date_ambiguous,first_gift_date
+D00234,date_ambiguous,first_gift_date
+D03871,date_ambiguous,first_gift_date
+D03407,date_ambiguous,first_gift_date
+D00275,date_ambiguous,first_gift_date
+D00299,date_ambiguous,first_gift_date
+D02660,date_ambiguous,first_gift_date
+D04309,date_ambiguous,first_gift_date
+D03969,date_ambiguous,first_gift_date
+D02585,date_ambiguous,first_gift_date
+D03166,date_ambiguous,first_gift_date
+D01908,date_ambiguous,first_gift_date
+D02834,date_ambiguous,first_gift_date
+D04708,date_ambiguous,first_gift_date
+D01372,date_ambiguous,first_gift_date
+D03289,date_ambiguous,first_gift_date
+D03079,date_ambiguous,first_gift_date
+D03540,date_ambiguous,first_gift_date
+D00858,date_ambiguous,first_gift_date
+D03214,date_ambiguous,first_gift_date
+D02805,date_ambiguous,first_gift_date
+D03075,date_ambiguous,first_gift_date
+D01670,date_ambiguous,first_gift_date
+D02479,date_ambiguous,first_gift_date
+D04569,date_ambiguous,first_gift_date
+D01704,date_ambiguous,first_gift_date
+D03404,date_ambiguous,first_gift_date
+D02747,date_ambiguous,first_gift_date
+D00913,date_ambiguous,first_gift_date
+D01552,date_ambiguous,first_gift_date
+D02408,date_ambiguous,first_gift_date
+D01559,date_ambiguous,first_gift_date
+D00499,date_ambiguous,first_gift_date
+D02093,date_ambiguous,first_gift_date
+D02433,date_ambiguous,first_gift_date
+D01164,date_ambiguous,first_gift_date
+D00104,date_ambiguous,first_gift_date
+D00273,date_ambiguous,first_gift_date
+D02414,date_ambiguous,first_gift_date
+D01403,date_ambiguous,first_gift_date
+D02895,date_ambiguous,first_gift_date
+D02472,date_ambiguous,first_gift_date
+D00268,date_ambiguous,first_gift_date
+D00258,date_ambiguous,first_gift_date
+D00713,date_ambiguous,first_gift_date
+D03025,date_ambiguous,first_gift_date
+D01775,date_ambiguous,first_gift_date
+D02532,date_ambiguous,first_gift_date
+D02380,date_ambiguous,first_gift_date
+D00132,date_ambiguous,first_gift_date
+D00661,date_ambiguous,first_gift_date
+D03190,date_ambiguous,first_gift_date
+D01153,date_ambiguous,first_gift_date
+D00613,date_ambiguous,first_gift_date
+D02610,date_ambiguous,first_gift_date
+D00485,date_ambiguous,first_gift_date
+D00774,date_ambiguous,first_gift_date
+D01784,date_ambiguous,first_gift_date
+D04572,date_ambiguous,first_gift_date
+D00344,date_ambiguous,first_gift_date
+D04543,date_ambiguous,first_gift_date
+D04459,date_ambiguous,first_gift_date
+D04476,date_ambiguous,first_gift_date
+D04956,date_ambiguous,first_gift_date
+D00476,date_ambiguous,first_gift_date
+D02857,date_ambiguous,first_gift_date
+D00698,date_ambiguous,first_gift_date
+D02282,date_ambiguous,first_gift_date
+D01851,date_ambiguous,first_gift_date
+D04640,date_ambiguous,first_gift_date
+D04774,date_ambiguous,first_gift_date
+D04798,date_ambiguous,first_gift_date
+D02568,date_ambiguous,first_gift_date
+D01415,date_ambiguous,first_gift_date
+D00366,date_ambiguous,first_gift_date
+D00079,date_ambiguous,first_gift_date
+D00124,date_ambiguous,first_gift_date
+D04963,date_ambiguous,first_gift_date
+D01961,date_ambiguous,first_gift_date
+D03623,date_ambiguous,first_gift_date
+D00594,date_ambiguous,first_gift_date
+D01340,date_ambiguous,first_gift_date
+D01867,date_ambiguous,first_gift_date
+D01466,date_ambiguous,first_gift_date
+D04938,date_ambiguous,first_gift_date
+D04682,date_ambiguous,first_gift_date
+D00859,date_ambiguous,first_gift_date
+D04616,date_ambiguous,first_gift_date
+D00036,date_ambiguous,first_gift_date
+D01693,date_ambiguous,first_gift_date
+D03023,date_ambiguous,first_gift_date
+D04653,date_ambiguous,first_gift_date
+D03232,date_ambiguous,first_gift_date
+D03863,date_ambiguous,first_gift_date
+D01230,date_ambiguous,first_gift_date
+D04662,date_ambiguous,first_gift_date
+D00755,date_ambiguous,first_gift_date
+D00750,date_ambiguous,first_gift_date
+D02135,date_ambiguous,first_gift_date
+D00410,date_ambiguous,first_gift_date
+D04885,date_ambiguous,first_gift_date
+D02170,date_ambiguous,first_gift_date
+D02242,date_ambiguous,first_gift_date
+D00214,date_ambiguous,first_gift_date
+D00021,date_ambiguous,first_gift_date
+D01711,date_ambiguous,first_gift_date
+D03554,date_ambiguous,first_gift_date
+D00474,date_ambiguous,first_gift_date
+D01436,date_ambiguous,first_gift_date
+D02411,date_ambiguous,first_gift_date
+D01705,date_ambiguous,first_gift_date
+D01419,date_ambiguous,first_gift_date
+D03333,date_ambiguous,first_gift_date
+D01487,date_ambiguous,first_gift_date
+D04896,date_ambiguous,first_gift_date
+D00807,date_ambiguous,first_gift_date
+D04117,date_ambiguous,first_gift_date
+D03811,date_ambiguous,first_gift_date
+D01132,date_ambiguous,first_gift_date
+D02545,date_ambiguous,first_gift_date
+D00711,date_ambiguous,first_gift_date
+D03949,date_ambiguous,first_gift_date
+D03024,date_ambiguous,first_gift_date
+D02422,date_ambiguous,first_gift_date
+D04025,date_ambiguous,first_gift_date
+D02572,date_ambiguous,first_gift_date
+D04951,date_ambiguous,first_gift_date
+D01302,date_ambiguous,first_gift_date
+D01305,date_ambiguous,first_gift_date
+D00915,date_ambiguous,first_gift_date
+D04151,date_ambiguous,first_gift_date
+D03336,date_ambiguous,first_gift_date
+D00386,date_ambiguous,first_gift_date
+D02350,date_ambiguous,first_gift_date
+D03757,date_ambiguous,first_gift_date
+D02598,date_ambiguous,first_gift_date
+D02966,date_ambiguous,first_gift_date
+D04663,date_ambiguous,first_gift_date
+D01343,date_ambiguous,first_gift_date
+D02220,date_ambiguous,first_gift_date
+D01674,date_ambiguous,first_gift_date
+D00847,date_ambiguous,first_gift_date
+D02871,date_ambiguous,first_gift_date
+D04621,date_ambiguous,first_gift_date
+D03346,date_ambiguous,first_gift_date
+D00672,date_ambiguous,first_gift_date
+D03267,date_ambiguous,first_gift_date
+D02757,date_ambiguous,first_gift_date
+D03926,date_ambiguous,first_gift_date
+D02872,date_ambiguous,first_gift_date
+D04648,date_ambiguous,first_gift_date
+D02509,date_ambiguous,first_gift_date
+D03585,date_ambiguous,first_gift_date
+D03285,date_ambiguous,first_gift_date
+D02157,date_ambiguous,first_gift_date
+D03141,date_ambiguous,first_gift_date
+D04080,date_ambiguous,first_gift_date
+D00336,date_ambiguous,first_gift_date
+D03252,date_ambiguous,first_gift_date
+D04453,date_ambiguous,first_gift_date
+D01471,date_ambiguous,first_gift_date
+D04584,date_ambiguous,first_gift_date
+D03737,date_ambiguous,first_gift_date
+D00155,date_ambiguous,first_gift_date
+D03421,date_ambiguous,first_gift_date
+D03121,date_ambiguous,first_gift_date
+D01803,date_ambiguous,first_gift_date
+D01844,date_ambiguous,first_gift_date
+D01148,date_ambiguous,first_gift_date
+D04932,date_ambiguous,first_gift_date
+D04780,date_ambiguous,first_gift_date
+D04892,date_ambiguous,first_gift_date
+D02774,date_ambiguous,first_gift_date
+D02732,date_ambiguous,first_gift_date
+D03799,date_ambiguous,first_gift_date
+D00647,date_ambiguous,first_gift_date
+D02920,date_ambiguous,first_gift_date
+D04344,date_corrected_day_month,last_gift_date
+D00834,date_corrected_day_month,last_gift_date
+D02330,date_corrected_day_month,last_gift_date
+D04012,date_corrected_day_month,last_gift_date
+D02440,date_corrected_day_month,last_gift_date
+D00169,date_corrected_day_month,last_gift_date
+D01256,date_corrected_day_month,last_gift_date
+D04214,date_corrected_day_month,last_gift_date
+D04445,date_corrected_day_month,last_gift_date
+D00062,date_corrected_day_month,last_gift_date
+D03308,date_corrected_day_month,last_gift_date
+D00734,date_corrected_day_month,last_gift_date
+D04063,date_corrected_day_month,last_gift_date
+D03113,date_corrected_day_month,last_gift_date
+D00135,date_corrected_day_month,last_gift_date
+D02847,date_corrected_day_month,last_gift_date
+D02866,date_corrected_day_month,last_gift_date
+D03971,date_corrected_day_month,last_gift_date
+D03633,date_corrected_day_month,last_gift_date
+D01908,date_corrected_day_month,last_gift_date
+D03807,date_corrected_day_month,last_gift_date
+D03604,date_corrected_day_month,last_gift_date
+D03650,date_corrected_day_month,last_gift_date
+D02192,date_corrected_day_month,last_gift_date
+D03404,date_corrected_day_month,last_gift_date
+D03039,date_corrected_day_month,last_gift_date
+D02952,date_corrected_day_month,last_gift_date
+D00499,date_corrected_day_month,last_gift_date
+D04958,date_corrected_day_month,last_gift_date
+D01164,date_corrected_day_month,last_gift_date
+D04918,date_corrected_day_month,last_gift_date
+D03979,date_corrected_day_month,last_gift_date
+D04460,date_corrected_day_month,last_gift_date
+D03190,date_corrected_day_month,last_gift_date
+D04138,date_corrected_day_month,last_gift_date
+D02586,date_corrected_day_month,last_gift_date
+D00613,date_corrected_day_month,last_gift_date
+D02610,date_corrected_day_month,last_gift_date
+D00485,date_corrected_day_month,last_gift_date
+D00344,date_corrected_day_month,last_gift_date
+D04543,date_corrected_day_month,last_gift_date
+D03186,date_corrected_day_month,last_gift_date
+D04640,date_corrected_day_month,last_gift_date
+D00703,date_corrected_day_month,last_gift_date
+D00400,date_corrected_day_month,last_gift_date
+D02530,date_corrected_day_month,last_gift_date
+D01961,date_corrected_day_month,last_gift_date
+D01806,date_corrected_day_month,last_gift_date
+D02958,date_corrected_day_month,last_gift_date
+D00800,date_corrected_day_month,last_gift_date
+D03018,date_corrected_day_month,last_gift_date
+D04052,date_corrected_day_month,last_gift_date
+D01693,date_corrected_day_month,last_gift_date
+D03232,date_corrected_day_month,last_gift_date
+D04439,date_corrected_day_month,last_gift_date
+D04069,date_corrected_day_month,last_gift_date
+D01798,date_corrected_day_month,last_gift_date
+D01990,date_corrected_day_month,last_gift_date
+D01416,date_corrected_day_month,last_gift_date
+D01344,date_corrected_day_month,last_gift_date
+D02258,date_corrected_day_month,last_gift_date
+D03785,date_corrected_day_month,last_gift_date
+D04608,date_corrected_day_month,last_gift_date
+D03333,date_corrected_day_month,last_gift_date
+D00272,date_corrected_day_month,last_gift_date
+D03024,date_corrected_day_month,last_gift_date
+D03316,date_corrected_day_month,last_gift_date
+D04951,date_corrected_day_month,last_gift_date
+D04197,date_corrected_day_month,last_gift_date
+D01312,date_corrected_day_month,last_gift_date
+D02350,date_corrected_day_month,last_gift_date
+D03757,date_corrected_day_month,last_gift_date
+D01909,date_corrected_day_month,last_gift_date
+D03473,date_corrected_day_month,last_gift_date
+D00389,date_corrected_day_month,last_gift_date
+D04638,date_corrected_day_month,last_gift_date
+D02704,date_corrected_day_month,last_gift_date
+D01397,date_corrected_day_month,last_gift_date
+D04080,date_corrected_day_month,last_gift_date
+D04108,date_corrected_day_month,last_gift_date
+D01149,date_corrected_day_month,last_gift_date
+D04780,date_corrected_day_month,last_gift_date
+D02434,date_corrected_day_month,last_gift_date
+D03945,date_ambiguous,last_gift_date
+D04392,date_ambiguous,last_gift_date
+D02407,date_ambiguous,last_gift_date
+D04551,date_ambiguous,last_gift_date
+D02427,date_ambiguous,last_gift_date
+D01967,date_ambiguous,last_gift_date
+D01323,date_ambiguous,last_gift_date
+D04221,date_ambiguous,last_gift_date
+D00912,date_ambiguous,last_gift_date
+D00916,date_ambiguous,last_gift_date
+D00839,date_ambiguous,last_gift_date
+D03816,date_ambiguous,last_gift_date
+D02105,date_ambiguous,last_gift_date
+D01733,date_ambiguous,last_gift_date
+D01834,date_ambiguous,last_gift_date
+D04343,date_ambiguous,last_gift_date
+D04545,date_ambiguous,last_gift_date
+D02318,date_ambiguous,last_gift_date
+D00182,date_ambiguous,last_gift_date
+D03085,date_ambiguous,last_gift_date
+D02299,date_ambiguous,last_gift_date
+D01420,date_ambiguous,last_gift_date
+D01836,date_ambiguous,last_gift_date
+D01841,date_ambiguous,last_gift_date
+D04548,date_ambiguous,last_gift_date
+D02342,date_ambiguous,last_gift_date
+D03209,date_ambiguous,last_gift_date
+D01293,date_ambiguous,last_gift_date
+D00234,date_ambiguous,last_gift_date
+D03903,date_ambiguous,last_gift_date
+D02950,date_ambiguous,last_gift_date
+D01056,date_ambiguous,last_gift_date
+D00275,date_ambiguous,last_gift_date
+D04274,date_ambiguous,last_gift_date
+D02660,date_ambiguous,last_gift_date
+D01198,date_ambiguous,last_gift_date
+D00888,date_ambiguous,last_gift_date
+D03782,date_ambiguous,last_gift_date
+D01615,date_ambiguous,last_gift_date
+D02834,date_ambiguous,last_gift_date
+D01955,date_ambiguous,last_gift_date
+D01962,date_ambiguous,last_gift_date
+D04708,date_ambiguous,last_gift_date
+D01372,date_ambiguous,last_gift_date
+D04800,date_ambiguous,last_gift_date
+D01384,date_ambiguous,last_gift_date
+D02805,date_ambiguous,last_gift_date
+D03075,date_ambiguous,last_gift_date
+D03067,date_ambiguous,last_gift_date
+D04569,date_ambiguous,last_gift_date
+D04123,date_ambiguous,last_gift_date
+D04232,date_ambiguous,last_gift_date
+D00979,date_ambiguous,last_gift_date
+D01863,date_ambiguous,last_gift_date
+D01704,date_ambiguous,last_gift_date
+D03674,date_ambiguous,last_gift_date
+D04329,date_ambiguous,last_gift_date
+D01508,date_ambiguous,last_gift_date
+D04652,date_ambiguous,last_gift_date
+D02837,date_ambiguous,last_gift_date
+D01552,date_ambiguous,last_gift_date
+D01559,date_ambiguous,last_gift_date
+D04554,date_ambiguous,last_gift_date
+D03920,date_ambiguous,last_gift_date
+D03955,date_ambiguous,last_gift_date
+D02093,date_ambiguous,last_gift_date
+D02723,date_ambiguous,last_gift_date
+D02433,date_ambiguous,last_gift_date
+D01238,date_ambiguous,last_gift_date
+D00104,date_ambiguous,last_gift_date
+D02414,date_ambiguous,last_gift_date
+D01403,date_ambiguous,last_gift_date
+D01903,date_ambiguous,last_gift_date
+D02895,date_ambiguous,last_gift_date
+D00443,date_ambiguous,last_gift_date
+D03516,date_ambiguous,last_gift_date
+D04461,date_ambiguous,last_gift_date
+D03106,date_ambiguous,last_gift_date
+D02267,date_ambiguous,last_gift_date
+D01936,date_ambiguous,last_gift_date
+D03297,date_ambiguous,last_gift_date
+D03133,date_ambiguous,last_gift_date
+D04222,date_ambiguous,last_gift_date
+D03025,date_ambiguous,last_gift_date
+D02922,date_ambiguous,last_gift_date
+D02532,date_ambiguous,last_gift_date
+D00001,date_ambiguous,last_gift_date
+D02380,date_ambiguous,last_gift_date
+D02684,date_ambiguous,last_gift_date
+D00661,date_ambiguous,last_gift_date
+D01153,date_ambiguous,last_gift_date
+D01968,date_ambiguous,last_gift_date
+D02275,date_ambiguous,last_gift_date
+D01784,date_ambiguous,last_gift_date
+D03350,date_ambiguous,last_gift_date
+D04152,date_ambiguous,last_gift_date
+D04459,date_ambiguous,last_gift_date
+D01432,date_ambiguous,last_gift_date
+D00641,date_ambiguous,last_gift_date
+D04956,date_ambiguous,last_gift_date
+D00698,date_ambiguous,last_gift_date
+D02156,date_ambiguous,last_gift_date
+D02461,date_ambiguous,last_gift_date
+D00023,date_ambiguous,last_gift_date
+D00523,date_ambiguous,last_gift_date
+D04774,date_ambiguous,last_gift_date
+D01415,date_ambiguous,last_gift_date
+D02803,date_ambiguous,last_gift_date
+D00079,date_ambiguous,last_gift_date
+D00425,date_ambiguous,last_gift_date
+D03474,date_ambiguous,last_gift_date
+D00124,date_ambiguous,last_gift_date
+D04218,date_ambiguous,last_gift_date
+D04039,date_ambiguous,last_gift_date
+D00042,date_ambiguous,last_gift_date
+D01340,date_ambiguous,last_gift_date
+D04840,date_ambiguous,last_gift_date
+D03574,date_ambiguous,last_gift_date
+D02818,date_ambiguous,last_gift_date
+D04616,date_ambiguous,last_gift_date
+D02935,date_ambiguous,last_gift_date
+D03413,date_ambiguous,last_gift_date
+D03023,date_ambiguous,last_gift_date
+D01230,date_ambiguous,last_gift_date
+D04334,date_ambiguous,last_gift_date
+D03838,date_ambiguous,last_gift_date
+D00750,date_ambiguous,last_gift_date
+D02170,date_ambiguous,last_gift_date
+D02242,date_ambiguous,last_gift_date
+D02937,date_ambiguous,last_gift_date
+D01711,date_ambiguous,last_gift_date
+D00484,date_ambiguous,last_gift_date
+D02864,date_ambiguous,last_gift_date
+D04704,date_ambiguous,last_gift_date
+D01592,date_ambiguous,last_gift_date
+D00454,date_ambiguous,last_gift_date
+D02786,date_ambiguous,last_gift_date
+D00937,date_ambiguous,last_gift_date
+D00011,date_ambiguous,last_gift_date
+D00807,date_ambiguous,last_gift_date
+D04117,date_ambiguous,last_gift_date
+D03811,date_ambiguous,last_gift_date
+D01132,date_ambiguous,last_gift_date
+D03588,date_ambiguous,last_gift_date
+D00711,date_ambiguous,last_gift_date
+D02422,date_ambiguous,last_gift_date
+D04025,date_ambiguous,last_gift_date
+D02572,date_ambiguous,last_gift_date
+D00482,date_ambiguous,last_gift_date
+D01137,date_ambiguous,last_gift_date
+D02077,date_ambiguous,last_gift_date
+D03431,date_ambiguous,last_gift_date
+D01305,date_ambiguous,last_gift_date
+D04151,date_ambiguous,last_gift_date
+D00723,date_ambiguous,last_gift_date
+D01760,date_ambiguous,last_gift_date
+D00537,date_ambiguous,last_gift_date
+D02191,date_ambiguous,last_gift_date
+D03392,date_ambiguous,last_gift_date
+D03678,date_ambiguous,last_gift_date
+D00847,date_ambiguous,last_gift_date
+D02871,date_ambiguous,last_gift_date
+D04803,date_ambiguous,last_gift_date
+D03346,date_ambiguous,last_gift_date
+D00672,date_ambiguous,last_gift_date
+D00236,date_ambiguous,last_gift_date
+D00717,date_ambiguous,last_gift_date
+D02872,date_ambiguous,last_gift_date
+D03585,date_ambiguous,last_gift_date
+D03285,date_ambiguous,last_gift_date
+D02157,date_ambiguous,last_gift_date
+D03141,date_ambiguous,last_gift_date
+D01626,date_ambiguous,last_gift_date
+D00336,date_ambiguous,last_gift_date
+D02142,date_ambiguous,last_gift_date
+D01471,date_ambiguous,last_gift_date
+D04071,date_ambiguous,last_gift_date
+D04584,date_ambiguous,last_gift_date
+D00513,date_ambiguous,last_gift_date
+D03737,date_ambiguous,last_gift_date
+D01842,date_ambiguous,last_gift_date
+D02538,date_ambiguous,last_gift_date
+D03421,date_ambiguous,last_gift_date
+D01803,date_ambiguous,last_gift_date
+D00489,date_ambiguous,last_gift_date
+D01844,date_ambiguous,last_gift_date
+D00660,date_ambiguous,last_gift_date
+D01148,date_ambiguous,last_gift_date
+D04414,date_ambiguous,last_gift_date
+D04637,date_ambiguous,last_gift_date
+D02732,date_ambiguous,last_gift_date
+D03799,date_ambiguous,last_gift_date
+D03343,date_ambiguous,last_gift_date
+D01900,date_ambiguous,last_gift_date
+D04844,date_ambiguous,last_gift_date
+D01185,date_ambiguous,last_gift_date
+D02920,date_ambiguous,last_gift_date

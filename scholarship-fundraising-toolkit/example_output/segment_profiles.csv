@@ -1,0 +1,6 @@
+segment_id,segment_name,donors,share_ever_gave,median_days_since_last_gift,median_total_giving,median_gift_count,avg_events_3yr,avg_email_click_rate
+0,Lapsed donors,1579,1.0,815.0,97.86,1.0,0.444,0.036
+3,Active donors,1376,1.0,290.5,370.825,4.0,0.471,0.048
+4,Occasional donors (2),962,1.0,390.0,258.615,4.0,2.647,0.051
+2,Low-engagement prospects,548,0.009,7300.0,0.0,0.0,0.524,0.035
+1,Occasional donors,535,1.0,376.0,328.1,4.0,1.372,0.161
